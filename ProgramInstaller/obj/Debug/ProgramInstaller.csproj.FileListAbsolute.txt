@@ -1,0 +1,13 @@
+C:\Users\upton\Documents\Visual Studio 2015\Projects\ProgramInstaller\ProgramInstaller\bin\Debug\SecurityConfigurationUtilityInstaller.exe.config
+C:\Users\upton\Documents\Visual Studio 2015\Projects\ProgramInstaller\ProgramInstaller\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\upton\Documents\Visual Studio 2015\Projects\ProgramInstaller\ProgramInstaller\obj\Debug\ProgramInstaller.csproj.ResolveComReference.cache
+C:\Users\upton\Documents\Visual Studio 2015\Projects\ProgramInstaller\ProgramInstaller\bin\Debug\SecurityConfigurationUtilityInstaller.exe
+C:\Users\upton\Documents\Visual Studio 2015\Projects\ProgramInstaller\ProgramInstaller\bin\Debug\SecurityConfigurationUtilityInstaller.pdb
+C:\Users\upton\Documents\Visual Studio 2015\Projects\ProgramInstaller\ProgramInstaller\bin\Debug\Ionic.Zip.dll
+C:\Users\upton\Documents\Visual Studio 2015\Projects\ProgramInstaller\ProgramInstaller\bin\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\upton\Documents\Visual Studio 2015\Projects\ProgramInstaller\ProgramInstaller\obj\Debug\ProgramInstaller.Form1.resources
+C:\Users\upton\Documents\Visual Studio 2015\Projects\ProgramInstaller\ProgramInstaller\obj\Debug\ProgramInstaller.Properties.Resources.resources
+C:\Users\upton\Documents\Visual Studio 2015\Projects\ProgramInstaller\ProgramInstaller\obj\Debug\ProgramInstaller.csproj.GenerateResource.Cache
+C:\Users\upton\Documents\Visual Studio 2015\Projects\ProgramInstaller\ProgramInstaller\obj\Debug\SecurityConfigurationUtilityInstaller.exe
+C:\Users\upton\Documents\Visual Studio 2015\Projects\ProgramInstaller\ProgramInstaller\obj\Debug\SecurityConfigurationUtilityInstaller.pdb
+C:\Users\upton\documents\visual studio 2015\Projects\ProgramInstaller\ProgramInstaller\obj\Debug\ProgramInstaller.csprojResolveAssemblyReference.cache
